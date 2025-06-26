@@ -12,12 +12,14 @@ ESA (Educational Student App) is a Java-based GUI application designed to manage
 
 📝 Manage student data including:
 
+ ![student information 6_23_2025 10_46_35 PM](https://github.com/user-attachments/assets/d3f84530-8a1e-4cfd-8e11-c0fe4f394b3c)
+
+
 Name
 
 ID
 
-Major/Department                                         ![student information 6_23_2025 10_46_35 PM](https://github.com/user-attachments/assets/d3f84530-8a1e-4cfd-8e11-c0fe4f394b3c)
-
+Major/Department                                         
 
 🧠 Smart Controls:
 
